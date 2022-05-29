@@ -1,0 +1,13 @@
+a{
+    font-weight: bold;
+    font-color:pink;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
